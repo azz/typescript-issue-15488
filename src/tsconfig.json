@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "types": [
+            "dep"
+        ],
+        "typeRoots": [
+            "../deps"
+        ]
+    }
+}
